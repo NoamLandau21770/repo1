@@ -1,0 +1,1 @@
+print("Using git UI instead of bash")
